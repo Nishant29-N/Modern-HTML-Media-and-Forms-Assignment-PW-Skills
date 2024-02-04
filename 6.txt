@@ -1,0 +1,22 @@
+Ques. List and 5 semantic tags in HTML with their description
+
+Ans.  Various HTML Semantic Tags are:
+      
+      1. <article>
+      (i) The HTML <article> tag is used for independent, self-contained content, which means content inside the article tag is complete and independent from the rest of the article.
+      (ii) The content inside this tag does not need context. It makes sense on its own, for example, a news flash or an advertisement.
+
+      2. <nav>
+      (i) Defines a section of the document intended for navigation links. It typically contains a list of links to other pages or sections of the same document.
+
+      3. <section>
+      (i) Defines a thematic grouping of content within a document.
+      (ii) It helps to organize the content into different sections and is often used in conjunction with heading elements (<h1>, <h2>, etc.) to provide structure.
+
+      4. <footer>
+      (i) Represents the footer of a section or a page. 
+      (ii) It typically contains metadata, copyright information, contact details, or links to related documents. It comes at the end of the content or a section.
+
+      5. <header>
+      (i) Represents a group of introductory or navigational content at the beginning of a section or page.
+      (ii) Commonly used to define the header of a document or a section within it. 

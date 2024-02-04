@@ -1,0 +1,6 @@
+Ques. 1 List out features of HTML5.
+
+Sol. (i) Intro of audio and video: It allows developers to embed a video or audio on their website.
+     (ii) Header and Footer: By using <header> and <footer> HTML5 elements, the browser will know what to load first and what to load later.
+     (iii) Nav tag: The <nav> tag defines a set of navigation links. It is used for the part of an internet site that links to different pages at the website. This element makes it much easier to create a navigation menu.
+     (iv) Vector Graphics: It can be used to draw graphics with various shapes and colors via scripting usually JS. Vector graphics are scalable, easy to create and edit. It also supports interactivity and animation. Having a smaller file size makes transferring and loading graphics much faster on the web.   

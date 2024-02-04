@@ -1,0 +1,11 @@
+Ques. Write a short note on tab index.
+
+Ans.  The tabindex attribute in HTML is used to specify the order in which an element receives focus when the user presses the Tab key. 
+      It can be used on any HTML element, but it is most commonly used on form elements such as input fields, buttons, and links.
+      The tabindex attribute takes an integer value, and the elements with the lowest tabindex values will receive focus first. For example, if two input fields have tabindex values of 1 and 2, the input field with the tabindex value of 1 will receive focus first when the user presses the Tab key.
+      The tabindex attribute can also be used to make an element non-focusable. To do this, simply set the tabindex value to -1. This is useful for elements that you do not want the user to be able to focus on, such as hidden form fields.
+
+      Here is an example of how to use the tabindex attribute:
+
+      <input type="text" tabindex="1">
+      <input type="submit" tabindex="2">
